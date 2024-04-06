@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wq+TIUnojVdjfVOtj5VgF2hNl4i19WXKjmY+Hi4TtlFV2afwc9hQVEsrU8FOX185fFC215aYskdmnFlbkXgiOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\OneDrive\\Desktop\\CPRG211E Lab 09\\DatabaseTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\mysqlconnector\\2.3.6\\mysqlconnector.2.3.6.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.8\\sqlitepclraw.bundle_green.2.1.8.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\sqlitepclraw.core\\2.1.8\\sqlitepclraw.core.2.1.8.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.8\\sqlitepclraw.lib.e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.8\\sqlitepclraw.provider.e_sqlite3.2.1.8.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
